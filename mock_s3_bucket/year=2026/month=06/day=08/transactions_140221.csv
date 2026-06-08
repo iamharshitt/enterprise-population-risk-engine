@@ -1,0 +1,101 @@
+transaction_id,user_id,timestamp,amount,location,device_device
+1521a656-4900-41df-9f75-4e8d638eb5f7,cb9604ba,2026-06-08 14:02:21,2484.39,,Mobile_Android
+dd9161ad-64f9-43a4-a8cb-c5dd1de553ca,c618d267,2026-06-08 14:02:21,49.84,Valenciachester,Mobile_Android
+1284ee58-f1fe-4d50-a930-7c8501210b00,ece1a255,2026-06-08 14:02:21,265.92,East Jennifer,Mobile_Android
+9e886d29-3520-489d-b444-1fb9d291659a,dfe98d6d,2026-06-08 14:02:21,2033.27,New Diana,Mobile_iOS
+f4d6626d-3166-4f2e-a1ac-428db96557d6,f1c24e94,2026-06-08 14:02:21,4267.56,Rosebury,Desktop_Web
+1d815d8f-bb92-420e-8c42-d0f76b497a40,251ab06d,2026-06-08 14:02:21,1308.48,New Mary,Mobile_Android
+5c9ae7fb-3880-4132-9882-597cbda88cf2,dfe98d6d,2026-06-08 14:02:21,1353.24,North Deniseland,Mobile_iOS
+f696b5ed-199a-4138-bd1e-71c89168a563,251ab06d,2026-06-08 14:02:21,990.0,East Chasetown,Mobile_iOS
+de2b09af-e8ee-4b39-be95-aa375a7894d4,d5d20a1d,2026-06-08 14:02:21,2220.96,North Clintonside,Mobile_Android
+178b4c73-df46-4792-bc00-fd7abb373e27,ece1a255,2026-06-08 14:02:21,4447.6,Gilmorefort,Mobile_iOS
+3bff6d03-8209-4977-8067-3266943a4448,d5d20a1d,2026-06-08 14:02:21,519.22,Valerietown,Desktop_Web
+a01ccbc7-161a-4e97-9add-1974b295e53a,dfe98d6d,2026-06-08 14:02:21,2758.41,Thompsonmouth,Mobile_iOS
+a5c5e698-3fe4-489d-9c28-34c884d5bd59,82ac530a,2026-06-08 14:02:21,2098.93,Petersfort,Desktop_Web
+910c7727-f3f1-46d5-a43c-6c84baae9838,ece1a255,2026-06-08 14:02:21,4102.26,New Heatherport,Desktop_Web
+5eb91e26-a8d8-4d31-8014-ee8cb592570c,82ac530a,2026-06-08 14:02:21,4918.51,North Colton,Desktop_Web
+ba63b1fd-a20c-4185-b06f-35d0dac61748,cb9604ba,2026-06-08 14:02:21,1887.78,Jeffreystad,Mobile_Android
+b24134ef-4bb2-46ea-8bc4-5d0885d62a2f,dfe98d6d,2026-06-08 14:02:21,238.52,East Colleenland,Mobile_iOS
+3ea0a20d-7f36-4b52-8714-a33b8b864b84,ece1a255,2026-06-08 14:02:21,1837.24,Robertmouth,Mobile_iOS
+6ab7e28e-cfb9-4526-9d88-09d50b904e41,82ac530a,2026-06-08 14:02:21,4907.92,East Thomas,Mobile_iOS
+e5a4a073-eb05-48b9-969f-e5efc09c7dae,cb9604ba,2026-06-08 14:02:21,2709.13,Juarezborough,Desktop_Web
+53447d66-92e6-4468-9913-a4247edbd481,c618d267,2026-06-08 14:02:21,2392.71,West Richard,Mobile_iOS
+69113ef5-a233-4d6a-9a71-38382318f6f8,d5d20a1d,2026-06-08 14:02:21,1274.94,Stephenfurt,Desktop_Web
+1e039f07-c868-45be-b8cb-2183c421f049,c618d267,2026-06-08 14:02:21,4319.08,Williamsonview,Mobile_iOS
+f05e0936-bba4-4320-a8ce-03c1fb72fd28,82ac530a,2026-06-08 14:02:21,3286.48,Grantborough,Mobile_Android
+6c1099ad-3d04-4b11-9055-6de83d8895bd,c618d267,2026-06-08 14:02:21,576.83,Jacobville,Mobile_iOS
+cdca1b1b-af4a-4155-9529-b4327971fb1f,6648898d,2026-06-08 14:02:21,3893.37,Dannyton,Mobile_iOS
+242c3a3c-ad28-4122-8f48-d50ff6b1f4fa,82ac530a,2026-06-08 14:02:21,2791.21,New Sarah,Mobile_iOS
+ce98d154-25fe-42ce-9ad8-2aedd7271174,dfe98d6d,2026-06-08 14:02:21,4598.22,Marcberg,Mobile_iOS
+1f83a773-b804-4da5-95c9-367bf5c7665d,cb9604ba,2026-06-08 14:02:21,3161.66,Port Markstad,Desktop_Web
+b2604b83-6d6b-416d-881a-a1daec09a8dd,6648898d,2026-06-08 14:02:21,78261.99,Heatherfurt,Mobile_Android
+f6d8a11a-65d3-4170-ac01-cde016fda12f,ece1a255,2026-06-08 14:02:21,3445.55,Bellstad,Mobile_Android
+3cec3490-e055-484c-bf02-76c1d0dd5929,dfe98d6d,2026-06-08 14:02:21,195.35,West Elizabethview,Mobile_iOS
+06490275-7976-4b39-8f3f-22780cbf3d26,d5d20a1d,2026-06-08 14:02:21,879.81,Jessicatown,Desktop_Web
+2673cbb5-6c5e-4f2a-8db6-040ce8f8ade5,d5d20a1d,2026-06-08 14:02:21,93624.14,North Andrew,Mobile_iOS
+4a03a330-0f5f-4663-b9fa-cc3af668d9ff,251ab06d,2026-06-08 14:02:21,2075.87,North Kiarahaven,Mobile_iOS
+8979c135-918b-46c3-8a56-fdd2c5a067ad,13e78c73,2026-06-08 14:02:21,4750.05,Port Robert,Mobile_iOS
+0fd8288c-018a-4369-85b8-04b2d1067091,dfe98d6d,2026-06-08 14:02:21,481.93,Odonnellfort,Mobile_Android
+f49e083f-4446-40df-8a3d-6bc290b2471e,cb9604ba,2026-06-08 14:02:21,3546.56,Port Matthew,Mobile_iOS
+6dcec958-5c85-4a4b-88cb-81941ba48e3d,dfe98d6d,2026-06-08 14:02:21,2559.38,Pattersonburgh,Mobile_Android
+4a555ad6-a54c-4145-ad6d-5227a7c2a79f,dfe98d6d,2026-06-08 14:02:21,1571.23,Hopkinsburgh,Mobile_Android
+d07ac116-410a-453f-995c-aeba0f56b00f,82ac530a,2026-06-08 14:02:21,1874.53,East Samanthaborough,Mobile_Android
+a5341a75-bad3-467b-8fbd-6dbc98bf5b64,c618d267,2026-06-08 14:02:21,3443.41,East Richardside,Mobile_iOS
+d43ac752-7ae4-4b36-b462-990bebd1454f,251ab06d,2026-06-08 14:02:21,3367.29,Port Patricia,Mobile_Android
+68c26d3c-d23e-4358-aef4-f9797d3a764c,dfe98d6d,2026-06-08 14:02:21,3054.97,,Desktop_Web
+caceb40c-0a36-4454-93a7-e6da36d4f2fb,f1c24e94,2026-06-08 14:02:21,3869.17,Kanestad,Mobile_iOS
+dd965865-c204-47a1-8b57-6cdebc6a410f,dfe98d6d,2026-06-08 14:02:21,53022.13,East Rebecca,Desktop_Web
+8f56d6bd-6e25-411e-8d39-76837513825a,f1c24e94,2026-06-08 14:02:21,1829.12,East Kevin,Desktop_Web
+b09f4efe-3621-46c9-b779-11ba5527aa07,ece1a255,2026-06-08 14:02:21,905.72,New Leslie,Desktop_Web
+5e866a66-eff9-479b-903e-df3765cfbbd1,dfe98d6d,2026-06-08 14:02:21,4604.47,Lake Shannontown,Mobile_Android
+3ad4e3d0-5142-4fba-966a-797f3e380c1e,82ac530a,2026-06-08 14:02:21,4841.3,North Pamelashire,Mobile_Android
+532b9e13-84e3-4fdc-a7fc-ebff06d789ee,13e78c73,2026-06-08 14:02:21,4139.52,,Mobile_iOS
+b1d87584-1151-4f4c-8695-02a96c7a653b,82ac530a,2026-06-08 14:02:21,2538.26,Lake Michael,Desktop_Web
+2119989c-c928-4b56-9b9e-0d72a4eed2e1,13e78c73,2026-06-08 14:02:21,3263.33,South Donaldberg,Desktop_Web
+d84f9bbd-ff5d-4972-9c5c-ca16fa5a35ee,ece1a255,2026-06-08 14:02:21,1367.69,Karenport,Mobile_iOS
+f9aa28ff-075d-460e-88dc-1c28b397f435,13e78c73,2026-06-08 14:02:21,2219.06,Peckborough,Mobile_Android
+1488ed3d-c384-4640-9453-186ccfa721d2,ece1a255,2026-06-08 14:02:21,2388.22,Port Kathrynshire,Mobile_iOS
+f57bc161-c61a-4ada-b334-3ca8166224ee,82ac530a,2026-06-08 14:02:21,2826.96,Lake Cynthiamouth,Desktop_Web
+72fbef8a-bc38-4acf-9044-e6a8e1eaa366,13e78c73,2026-06-08 14:02:21,3938.55,Susanshire,Desktop_Web
+e3a4f49b-c99b-4baf-b582-637864b7b8ef,ece1a255,2026-06-08 14:02:21,561.4,South Melissa,Mobile_iOS
+4da4b15d-1cc6-446c-941c-f5eaab1bc4ce,6648898d,2026-06-08 14:02:21,3649.9,East Kerryfurt,Mobile_iOS
+3c22ff29-246e-4d5d-af23-d4828d96170a,ece1a255,2026-06-08 14:02:21,65936.96,North Allisonbury,Desktop_Web
+9ae9aabe-1d5f-44dd-829a-ac84267ad09f,ece1a255,2026-06-08 14:02:21,666.39,Priscillabury,Mobile_iOS
+d8fdd861-b400-4a06-81d1-9581607c9b6e,ece1a255,2026-06-08 14:02:21,81149.65,Gomezmouth,Mobile_Android
+1bd3f356-38a9-4667-8bf8-a5a4ce8b03f6,13e78c73,2026-06-08 14:02:21,1184.87,Davidtown,Mobile_Android
+ceb14c89-b105-449e-8b5a-0dfca87742db,13e78c73,2026-06-08 14:02:21,4422.91,Millerfort,Mobile_Android
+39998605-e003-42ce-9d45-26b1d019fa02,dfe98d6d,2026-06-08 14:02:21,1142.44,Amyhaven,Desktop_Web
+0810212b-fc9e-4c45-b559-71c454c5cc07,f1c24e94,2026-06-08 14:02:21,1576.02,Port Isaiahside,Mobile_Android
+4e67e202-cf05-4f51-b95c-103c458b3396,6648898d,2026-06-08 14:02:21,1874.98,North Heiditown,Desktop_Web
+248e985e-462b-4acb-bc6c-69df811ee7c1,13e78c73,2026-06-08 14:02:21,790.56,Port Kathrynview,Mobile_Android
+345be0ee-adba-4e32-80fc-6c6be89d1696,d5d20a1d,2026-06-08 14:02:21,1051.17,North Victoriamouth,Desktop_Web
+288e23c0-4af2-4302-9858-7c32e7e26657,13e78c73,2026-06-08 14:02:21,1864.76,Jacquelineville,Mobile_Android
+27f7e30c-ddd0-4fdf-b5ce-b3e9b673de5e,13e78c73,2026-06-08 14:02:21,4853.9,South Teresaport,Mobile_iOS
+7940f448-4aa4-4804-b35c-420eac2d4b48,6648898d,2026-06-08 14:02:21,3406.39,Smithview,Mobile_Android
+248f1740-d9fe-4b93-96fb-c0eae7d4f022,251ab06d,2026-06-08 14:02:21,24.55,,Mobile_Android
+a2fffa42-ccd9-46f4-b00c-03c50a77ad6e,dfe98d6d,2026-06-08 14:02:21,1340.2,North Amandafurt,Mobile_Android
+6db461a7-9c42-4633-a469-781a55cbc4b2,d5d20a1d,2026-06-08 14:02:21,2383.0,,Mobile_iOS
+645322ce-2462-4518-b5e7-a3d6e04e7eeb,d5d20a1d,2026-06-08 14:02:21,3679.65,East Pamelatown,Mobile_Android
+33dfba18-69f4-4801-a55c-885a0404d846,251ab06d,2026-06-08 14:02:21,4432.68,Williamsborough,Mobile_Android
+44e23785-f2df-4769-a754-7dae9371e0f2,ece1a255,2026-06-08 14:02:21,4084.5,Port Jacobton,Desktop_Web
+b68b0864-1198-492b-818f-f74c6ca32799,cb9604ba,2026-06-08 14:02:21,3276.01,East Jennifer,Mobile_iOS
+4811cf9d-f685-428e-b148-2d8692f2934c,6648898d,2026-06-08 14:02:21,2900.76,Loriland,Desktop_Web
+8b407deb-6ddf-4b54-a985-d0d6662f842d,13e78c73,2026-06-08 14:02:21,586.63,Davidmouth,Mobile_iOS
+25faa2f2-804a-4793-922f-4b290a4ec32f,6648898d,2026-06-08 14:02:21,4392.36,Williamsmouth,Desktop_Web
+a1b8d7c8-7c8e-48cf-ac86-4d1f45cb9ca9,ece1a255,2026-06-08 14:02:21,134.56,New Nicole,Mobile_iOS
+66a5ab16-9713-452b-94f6-e61e65ea2d58,251ab06d,2026-06-08 14:02:21,3294.28,Tracybury,Desktop_Web
+3d685a48-4574-4ae9-a787-6f6f7da5f054,f1c24e94,2026-06-08 14:02:21,4752.19,Johnsonville,Mobile_Android
+f81bd5ae-5b5a-4557-9b9b-7c2c92107267,dfe98d6d,2026-06-08 14:02:21,1450.44,Lake Christopher,Mobile_iOS
+a1eff024-20ba-4951-be07-ef75048c123d,82ac530a,2026-06-08 14:02:21,1375.89,Erikfort,Mobile_iOS
+d7b7cdc9-1f09-47ac-9195-ad37ea8616d9,c618d267,2026-06-08 14:02:21,2428.4,Kaylaton,Desktop_Web
+c7125a38-ccee-4e75-a6e9-0d2661bb4eef,cb9604ba,2026-06-08 14:02:21,97968.83,Port Daniel,Mobile_iOS
+7bfa671b-7d96-486d-9525-7e59c275206f,cb9604ba,2026-06-08 14:02:21,4041.86,Marissamouth,Desktop_Web
+20481c01-8be6-4340-b93b-dce62f7ebc82,dfe98d6d,2026-06-08 14:02:21,531.61,Wendyshire,Mobile_iOS
+4d2c8991-aaa2-43a8-a0b6-1bca04cd81f0,251ab06d,2026-06-08 14:02:21,4226.01,Josephfort,Mobile_iOS
+ee5da182-9667-4116-9e34-3a210efb0f09,13e78c73,2026-06-08 14:02:21,1669.9,Cardenasburgh,Mobile_iOS
+b561d416-7161-4298-9209-0b495c7b5bde,cb9604ba,2026-06-08 14:02:21,2780.15,North Ryanville,Mobile_Android
+a12e0218-9cb5-470e-9875-cd4f2b79c3d4,6648898d,2026-06-08 14:02:21,1526.04,New Darrellstad,Desktop_Web
+a7521605-7668-479a-a5e5-a80c0b0f5ac6,d5d20a1d,2026-06-08 14:02:21,219.44,Taylormouth,Mobile_Android
+592dc721-f713-445f-a5f9-27d26ccb55ee,c618d267,2026-06-08 14:02:21,3665.24,East Nathanfurt,Desktop_Web
+b50669e0-d050-4c1e-acbe-83ea3b02c120,13e78c73,2026-06-08 14:02:21,1488.03,South Patriciamouth,Mobile_iOS
+2513f492-2a45-4762-b38a-42e46bf16dae,d5d20a1d,2026-06-08 14:02:21,2312.94,New Jeffery,Desktop_Web
